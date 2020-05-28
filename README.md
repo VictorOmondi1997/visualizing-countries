@@ -1,1 +1,5 @@
 # Visualizing Countries
+
+## License
+
+MIT
